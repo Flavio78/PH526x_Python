@@ -36,6 +36,7 @@ def update(n: int, x: list) -> None:
     n = 2
     x.append(4)
     print("update:", n, x)
+    dir()
 
     print("End of function 'update'")
 
